@@ -1,4 +1,4 @@
-Simple API Wrapper for TORO Server
+Simple API Wrapper
 
 for:
 - Python (See: example.py)
