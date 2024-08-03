@@ -1,0 +1,14 @@
+-p src
+-m TORODynmapParser
+
+--each
+
+--js bin/tdp.js
+
+--next
+
+--python bin/tdp.py
+
+--next
+
+--java bin/tdpjava
